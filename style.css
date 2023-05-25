@@ -90,6 +90,9 @@
   text-align: left;
   border: none;
 }
+#sifir:hover {
+  opacity: 0.5;
+}
 .equal {
   background: #343434;
   color: white;
